@@ -12,7 +12,7 @@ All questions can be directed to the below email addresses:
 
 tom mcandrew, mcandrew@lehigh.edu
 
-rochelle frounfelker, rof@222@lehigh.edu
+rochelle frounfelker, rof222@lehigh.edu
 
 lorenzo servitje, los317@lehigh.edu
 
