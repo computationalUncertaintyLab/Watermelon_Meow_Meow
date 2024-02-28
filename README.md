@@ -10,6 +10,10 @@ The folder `./wmm_networks/` contains all Watermelon Meow Meow (WMM) networks ge
 If you wish to submit a WMM network from your class then you submit as a Pull Request a CSV file that contains at minimum columns: (1) infector (2) infected. The rows of this CSV should be infection events where one student "infects" another with the WMM disease.
 Student names and any identifying formation should be **excluded** from this CSV file. The PR should state the title of the course, the semester in which the source was conducted, and a statement verifying that the WMM network data is de-identified. 
 
+### Data camp
+Lecture material and helper functions are also avaiable on Datacamp at = [https://app.datacamp.com/workspace/w/b9dfa999-1400-4455-b546-0488de9e5ab6/edit](https://app.datacamp.com/workspace/w/b9dfa999-1400-4455-b546-0488de9e5ab6)
+
+
 All questions can be directed to the below email addresses:
 
 tom mcandrew, mcandrew@lehigh.edu
